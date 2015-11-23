@@ -39,3 +39,7 @@
 :+1: [ShiftIt](https://github.com/fikovnik/ShiftIt)
 
 > Managing windows size and position in OSX
+
+[spectacle](https://www.spectacleapp.com/)
+
+> Window control with simple and customizable keyboard shortcuts
