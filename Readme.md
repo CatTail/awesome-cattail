@@ -1,6 +1,6 @@
-## awesome-osx
+## awesome-apps
 
-> **MY PERSONAL** OS X favourite stuff. PLEASE don't fire issues or PRS, because it's personal
+> **MY PERSONAL** favourite apps. PLEASE don't fire issues or PRS, because it's personal
 
 [f.lux](https://justgetflux.com/)
 
