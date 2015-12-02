@@ -1,12 +1,12 @@
-## awesome-osx
+## Awesome-OSX
 
 > **MY PERSONAL** OSX applications and tips. PLEASE don't fire issues or PRS, because it's personal
 
-## Tips
+### Tips
 
 **OS X's Help menu shortcut**: `Cmd+Shift+/`
 
-## Applications
+### Applications
 
 [f.lux](https://justgetflux.com/)
 
@@ -32,7 +32,7 @@
 
 > Just hold the ⌘-Key a bit longer to get a list of all active short cuts of the current application. It's as simple as that.
 
-### Markdown
+**Markdown**
 
 :+1:  [typora](http://typora.io/)
 
@@ -44,7 +44,7 @@
 
 > The open source Markdown editor for OS X
 
-### Window management
+**Window management**
 
 :+1: [ShiftIt](https://github.com/fikovnik/ShiftIt)
 
