@@ -1,6 +1,12 @@
-## awesome-apps
+## awesome-osx
 
-> **MY PERSONAL** favourite apps. PLEASE don't fire issues or PRS, because it's personal
+> **MY PERSONAL** OSX applications and tips. PLEASE don't fire issues or PRS, because it's personal
+
+## Tips
+
+**OS X's Help menu shortcut**: `Cmd+Shift+/`
+
+## Applications
 
 [f.lux](https://justgetflux.com/)
 
