@@ -22,6 +22,10 @@
 
 > The missing package manager for OS X
 
+[CheatSheet](http://www.mediaatelier.com/CheatSheet)
+
+> Just hold the ⌘-Key a bit longer to get a list of all active short cuts of the current application. It's as simple as that.
+
 ### Markdown
 
 :+1:  [typora](http://typora.io/)
