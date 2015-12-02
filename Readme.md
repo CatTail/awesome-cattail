@@ -32,6 +32,10 @@
 
 > Just hold the ⌘-Key a bit longer to get a list of all active short cuts of the current application. It's as simple as that.
 
+[QuickShot](http://www.thnkdev.com/QuickShot/)
+
+> The image manager you've always wanted
+
 **Markdown**
 
 :+1:  [typora](http://typora.io/)
