@@ -1,6 +1,6 @@
-# Awesome-Apple
+# Awesome-CatTail
 
-> **MY PERSONAL** OSX and iOS applications and tips. PLEASE don't fire issues or PRS, because it's personal
+> **MY PERSONAL** applications and tips. PLEASE don't fire issues or PRS, because it's personal
 
 ## Tips
 
