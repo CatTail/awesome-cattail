@@ -32,6 +32,10 @@
 
 > Drag and drop a color to and from any native application you are using
 
+[QuickShot](http://www.thnkdev.com/QuickShot/)
+
+> The image manager you've always wanted
+
 **Markdown**
 
 [typora](http://typora.io/)
