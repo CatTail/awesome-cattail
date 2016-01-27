@@ -28,6 +28,10 @@
 
 > A native OS X KeePass client
 
+[p4merge](https://www.perforce.com/product/components/perforce-visual-merge-and-diff-tools)
+
+> Visual Merge and Diff Tools
+
 [sip](http://theolabrothers.com/)
 
 > Drag and drop a color to and from any native application you are using
