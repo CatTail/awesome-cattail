@@ -2,11 +2,16 @@
 
 > **MY PERSONAL** applications and tips. PLEASE don't fire issues or PRS, because it's personal
 
-## Tips
+Table of Contents
 
-**OS X's Help menu shortcut**: `Cmd+Shift+/`
+* [OSX Application](#osx-application)
+* [iOS Application](#ios-application)
+* [CLI](#cli)
+* [Service](#service)
+* [Tips](#tips)
+* [Stash](#stash)
 
-## OSX Applications
+## OSX Application
 
 [brew](http://brew.sh/)
 
@@ -62,7 +67,7 @@
 
 > Window control with simple and customizable keyboard shortcuts
 
-## iOS Applications
+## iOS Application
 
 [Minikeepass](https://minikeepass.github.io/)
 
@@ -93,3 +98,55 @@
 [Microsoft Outlook](https://itunes.apple.com/us/app/microsoft-outlook-email-calendar/id951937596?mt=8)
 
 > email and calendar
+
+## CLI
+
+qrencode
+
+> QR Code generation
+
+## Service
+
+[CloudFlare](https://www.cloudflare.com/)
+
+> Provides a content delivery network and distributed domain name server services, sitting between the visitor and the CloudFlare user's hosting provider, acting as a reverse proxy for websites.
+
+[Heroku](https://www.heroku.com/)
+
+> Heroku is a cloud Platform-as-a-Service supporting several programming languages.
+
+[tawk](https://www.tawk.to/)
+
+> tawk.to is a free messaging app that lets you monitor and chat with visitors on your website or from a free customizable page
+
+[TinyLetter](https://tinyletter.com/)
+
+> Email for people with something to say
+
+## Tips
+
+OSX Help menu shortcut
+
+> `Cmd+Shift+/`
+
+## Stash
+
+Tryout queue
+
+* http://httpbin.org/
+* http://libscore.com/
+* https://leancloud.cn/
+* https://parse.com/
+* https://clojuredocs.org/
+* https://github.com/ripienaar/free-for-dev
+* http://stackshare.io/
+
+**color**
+
+[Flat UI Colors](http://flatuicolors.com/)
+[Coolors](https://coolors.co/browser)
+[Material Palette](https://www.materialpalette.com/green/indigo)
+[designseeds](https://www.instagram.com/designseeds/)
+[Nipponcolors](http://nipponcolors.com/)
+[Color Hunt](http://www.colorhunt.co/)
+[Adobe Color CC](https://color.adobe.com/)
