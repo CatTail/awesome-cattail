@@ -19,7 +19,7 @@ Table of Contents
 
 [CheatSheet](http://www.mediaatelier.com/CheatSheet)
 
-> Just hold the ⌘-Key a bit longer to get a list of all active short cuts of the current application. It's as simple as that.
+> Just hold the ⌘-Key a bit longer to get a list of all active short cuts of the current application. It's as simple as that
 
 [dash](https://kapeli.com/)
 
@@ -27,7 +27,7 @@ Table of Contents
 
 [f.lux](https://justgetflux.com/)
 
-> f.lux fixes this: it makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day.
+> f.lux fixes this: it makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day
 
 [macpass](https://github.com/mstarke/MacPass)
 
@@ -71,23 +71,23 @@ Table of Contents
 
 [Minikeepass](https://minikeepass.github.io/)
 
-> Secure password storage on your phone that's compatible with KeePass.
+> Secure password storage on your phone that's compatible with KeePass
 
 [Overcast](https://overcast.fm/)
 
-> A powerful yet simple podcast player for iPhone, iPad, and Apple Watch.
+> A powerful yet simple podcast player for iPhone, iPad, and Apple Watch
 
 [Pocket](https://getpocket.com/)
 
-> Save, discover, and recommend the best stories on the Web. 
+> Save, discover, and recommend the best stories on the Web
 
 [Reeder](http://reederapp.com/)
 
-> A news reader for Feedbin, Feedly, Feed Wrangler, FeedHQ, NewsBlur, The Old Reader, Inoreader, Minimal Reader, BazQux Reader, Fever, Readability and Instapaper.
+> A news reader for Feedbin, Feedly, Feed Wrangler, FeedHQ, NewsBlur, The Old Reader, Inoreader, Minimal Reader, BazQux Reader, Fever, Readability and Instapaper
 
 [Surge](http://surge.run/)
 
-> Surge is a web developer tool and proxy utility for iOS 9.
+> Surge is a web developer tool and proxy utility for iOS 9
 
 **email**
 
@@ -109,11 +109,15 @@ qrencode
 
 [CloudFlare](https://www.cloudflare.com/)
 
-> Provides a content delivery network and distributed domain name server services, sitting between the visitor and the CloudFlare user's hosting provider, acting as a reverse proxy for websites.
+> Provides a content delivery network and distributed domain name server services, sitting between the visitor and the CloudFlare user's hosting provider, acting as a reverse proxy for websites
 
 [Heroku](https://www.heroku.com/)
 
-> Heroku is a cloud Platform-as-a-Service supporting several programming languages.
+> Heroku is a cloud Platform-as-a-Service supporting several programming languages
+
+[swiftype](https://swiftype.com/)
+
+> Take control of your site search
 
 [tawk](https://www.tawk.to/)
 
