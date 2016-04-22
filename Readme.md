@@ -115,6 +115,9 @@ qrencode
 
 > Heroku is a cloud Platform-as-a-Service supporting several programming languages
 
+[Good Email Copy](http://www.goodemailcopy.com)
+> Email copy from great companies.
+
 [MailChimp](http://mailchimp.com/)
 > MailChimp is an email-marketing service that serves more than 10 million companies of all shapes and sizes, from all over the world.
 
