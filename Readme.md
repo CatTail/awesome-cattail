@@ -127,6 +127,10 @@ qrencode
 
 > Email for people with something to say
 
+[Web Annotator](http://genius.com/web-annotator)
+
+> Genius lets you add line-by-line annotations to any page on the Internet
+
 ## Tips
 
 OSX Help menu shortcut
