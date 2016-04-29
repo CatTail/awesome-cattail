@@ -41,10 +41,6 @@ Table of Contents
 
 > Drag and drop a color to and from any native application you are using
 
-[QuickShot](http://www.thnkdev.com/QuickShot/)
-
-> The image manager you've always wanted
-
 **Markdown**
 
 [typora](http://typora.io/)
@@ -69,6 +65,10 @@ Table of Contents
 
 ## iOS Application
 
+[Evernote](https://evernote.com/)
+
+> Discover what a new kind of note can do for you.
+
 [Minikeepass](https://minikeepass.github.io/)
 
 > Secure password storage on your phone that's compatible with KeePass
@@ -91,11 +91,11 @@ Table of Contents
 
 **email**
 
-:+1: [Inbox](https://www.google.com/inbox/)
+[Inbox](https://www.google.com/inbox/)
 
 > The inbox that works for you
 
-[Microsoft Outlook](https://itunes.apple.com/us/app/microsoft-outlook-email-calendar/id951937596?mt=8)
+:+1: [Microsoft Outlook](https://itunes.apple.com/us/app/microsoft-outlook-email-calendar/id951937596?mt=8)
 
 > email and calendar
 
