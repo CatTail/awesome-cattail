@@ -1,25 +1,12 @@
 # Awesome-CatTail
 
-> **MY PERSONAL** applications and tips. PLEASE don't fire issues or PRS, because it's personal
-
-Table of Contents
-
-* [OSX Application](#osx-application)
-* [iOS Application](#ios-application)
-* [CLI](#cli)
-* [Service](#service)
-* [Tips](#tips)
-* [Stash](#stash)
+> **MY PERSONAL** applications and tips.
 
 ## OSX Application
 
 [brew](http://brew.sh/)
 
 > The missing package manager for OS X
-
-[CheatSheet](http://www.mediaatelier.com/CheatSheet)
-
-> Just hold the ⌘-Key a bit longer to get a list of all active short cuts of the current application. It's as simple as that
 
 [dash](https://kapeli.com/)
 
@@ -41,27 +28,15 @@ Table of Contents
 
 > Drag and drop a color to and from any native application you are using
 
-**Markdown**
-
 [typora](http://typora.io/)
 
 > it combines syntax highlighting for markdown source and the live preview function
 > 
 > --- http://abnerlee.github.io/typora/2015/03/11/why-typora/
 
-:+1: [macdown](http://macdown.uranusjr.com/)
-
-> The open source Markdown editor for OS X
-
-**Window management**
-
-:+1: [ShiftIt](https://github.com/fikovnik/ShiftIt)
+[ShiftIt](https://github.com/fikovnik/ShiftIt)
 
 > Managing windows size and position in OSX
-
-[spectacle](https://www.spectacleapp.com/)
-
-> Window control with simple and customizable keyboard shortcuts
 
 ## iOS Application
 
@@ -89,21 +64,9 @@ Table of Contents
 
 > Surge is a web developer tool and proxy utility for iOS 9
 
-**email**
-
-[Inbox](https://www.google.com/inbox/)
-
-> The inbox that works for you
-
-:+1: [Microsoft Outlook](https://itunes.apple.com/us/app/microsoft-outlook-email-calendar/id951937596?mt=8)
+[Microsoft Outlook](https://itunes.apple.com/us/app/microsoft-outlook-email-calendar/id951937596?mt=8)
 
 > email and calendar
-
-## CLI
-
-qrencode
-
-> QR Code generation
 
 ## Service
 
@@ -111,21 +74,9 @@ qrencode
 
 > Provides a content delivery network and distributed domain name server services, sitting between the visitor and the CloudFlare user's hosting provider, acting as a reverse proxy for websites
 
-[Heroku](https://www.heroku.com/)
+[Tonic](https://tonicdev.com/)
 
-> Heroku is a cloud Platform-as-a-Service supporting several programming languages
-
-[swiftype](https://swiftype.com/)
-
-> Take control of your site search
-
-[tawk](https://www.tawk.to/)
-
-> tawk.to is a free messaging app that lets you monitor and chat with visitors on your website or from a free customizable page
-
-[TinyLetter](https://tinyletter.com/)
-
-> Email for people with something to say
+> Tonic is node prototyping.
 
 [Web Annotator](http://genius.com/web-annotator)
 
