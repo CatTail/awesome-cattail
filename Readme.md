@@ -16,6 +16,10 @@
 
 > f.lux fixes this: it makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day
 
+[iTerm2](https://www.iterm2.com/)
+
+> iTerm2 is a replacement for Terminal and the successor to iTerm. It works on Macs with OS X 10.8 or newer. iTerm2 brings the terminal into the modern age with features you never knew you always wanted.
+
 [macpass](https://github.com/mstarke/MacPass)
 
 > A native OS X KeePass client
@@ -35,7 +39,7 @@
 [typora](http://typora.io/)
 
 > it combines syntax highlighting for markdown source and the live preview function
-> 
+>
 > --- http://abnerlee.github.io/typora/2015/03/11/why-typora/
 
 [ShiftIt](https://github.com/fikovnik/ShiftIt)
@@ -71,6 +75,16 @@
 [Microsoft Outlook](https://itunes.apple.com/us/app/microsoft-outlook-email-calendar/id951937596?mt=8)
 
 > email and calendar
+
+## Terminal
+
+[autojump](https://github.com/wting/autojump)
+
+> A cd command that learns - easily navigate directories from the command line [http://wiki.github.com/joelthelion/autojump/](http://wiki.github.com/joelthelion/autojump/)
+
+[oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+
+> A delightful community-driven framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. [http://ohmyz.sh/](http://ohmyz.sh/)
 
 ## Service
 
