@@ -118,3 +118,9 @@
 OSX Help menu shortcut
 
 > `Cmd+Shift+/`
+
+iTerm2 cmd-click to open file in vim in terminal
+
+> Preferences -> Profiles -> Advanced
+> Under "Semantic History", choose "Run coprocess..". In the text field, put:
+> echo vim \1 +\2
