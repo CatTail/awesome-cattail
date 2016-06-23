@@ -78,9 +78,18 @@
 
 ## Terminal
 
+[ag](ggreer/the_silver_searcher)
+
+> A code-searching tool similar to ack, but faster. http://geoff.greer.fm/ag/
+
 [autojump](https://github.com/wting/autojump)
 
 > A cd command that learns - easily navigate directories from the command line [http://wiki.github.com/joelthelion/autojump/](http://wiki.github.com/joelthelion/autojump/)
+
+[fpp](https://facebook.github.io/PathPicker/)
+
+> | fpp
+> Why Pipe when you can Pick?
 
 [fzf](https://github.com/junegunn/fzf)
 
@@ -94,11 +103,6 @@
 [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 
 > A delightful community-driven framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. [http://ohmyz.sh/](http://ohmyz.sh/)
-
-[PathPicker](https://facebook.github.io/PathPicker/)
-
-> | fpp
-> Why Pipe when you can Pick?
 
 ## Service
 
