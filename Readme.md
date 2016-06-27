@@ -114,6 +114,10 @@
 
 > Provides a content delivery network and distributed domain name server services, sitting between the visitor and the CloudFlare user's hosting provider, acting as a reverse proxy for websites
 
+[httpbin](http://httpbin.org/)
+
+> HTTP Request & Response Service
+
 [Tonic](https://tonicdev.com/)
 
 > Tonic is node prototyping.
