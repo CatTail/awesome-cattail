@@ -112,6 +112,10 @@ tee
 
 > pipe fitting
 
+xxd
+
+> make a hexdump or do the reverse
+
 ## Service
 
 [asciinema](https://asciinema.org/)
