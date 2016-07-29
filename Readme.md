@@ -32,19 +32,23 @@
 
 > Postman helps you develop APIs faster.
 
+[quick look plugins](https://github.com/sindresorhus/quick-look-plugins)
+
+> List of useful Quick Look plugins for developers
+
 [sip](http://theolabrothers.com/)
 
 > Drag and drop a color to and from any native application you are using
+
+[ShiftIt](https://github.com/fikovnik/ShiftIt)
+
+> Managing windows size and position in OSX
 
 [typora](http://typora.io/)
 
 > it combines syntax highlighting for markdown source and the live preview function
 >
 > --- http://abnerlee.github.io/typora/2015/03/11/why-typora/
-
-[ShiftIt](https://github.com/fikovnik/ShiftIt)
-
-> Managing windows size and position in OSX
 
 ## iOS Application
 
