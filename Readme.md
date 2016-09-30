@@ -108,6 +108,13 @@
 
 > A delightful community-driven framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. [http://ohmyz.sh/](http://ohmyz.sh/)
 
+[osquery](https://osquery.io/)
+
+> osquery gives you the ability to query and log things like running processes, logged in users, password changes, usb devices, firewall exceptions, listening ports, and more.
+> You can perform ad-hoc queries or schedule them.
+
+    osquery> SELECT uid, name FROM listening_ports l, processes p WHERE l.pid=p.pid;
+
 pv
 
 > monitor the progress of data through a pipe
