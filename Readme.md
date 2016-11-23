@@ -36,6 +36,10 @@
 
 > List of useful Quick Look plugins for developers
 
+[Sequel Pro](http://sequelpro.com/)
+
+> MySQL database management for Mac OS X
+
 [sip](http://theolabrothers.com/)
 
 > Drag and drop a color to and from any native application you are using
