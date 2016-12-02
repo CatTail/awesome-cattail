@@ -165,6 +165,24 @@ xxd
 
 > Genius lets you add line-by-line annotations to any page on the Internet
 
+## Game
+
+[BombSquad](http://www.froemling.net/apps/bombsquad)
+
+> 8 Player Party Game Madness!
+
+[Don't Strave](http://www.kleientertainment.com/games/dont-starve)
+
+> *Don't Starve* is an uncompromising wilderness survival game full of science and magic.
+
+[The Last Of Us](http://www.thelastofus.playstation.com/index.html)
+
+> *The Last of Us* is genre-defining experience blending survival and action elements to tell a character driven story
+
+[The Witcher 3](http://thewitcher.com/en/witcher3)
+
+>  The game is based on the novel series of [the same name](https://en.wikipedia.org/wiki/The_Witcher) by Polish author [Andrzej Sapkowski](https://en.wikipedia.org/wiki/Andrzej_Sapkowski).[[4\]](https://en.wikipedia.org/wiki/The_Witcher_(video_game)#cite_note-ign1-4) *The Witcher* takes place in a [medieval](https://en.wikipedia.org/wiki/Medieval) [fantasy](https://en.wikipedia.org/wiki/Fantasy)world and follows the story of [Geralt](https://en.wikipedia.org/wiki/Geralt_of_Rivia), one of a few remaining Witchers – traveling monster hunters for hire who have supernatural powers. The game's system of "moral choices" as part of the storyline was noted for its time-delayed consequences and lack of black-and-white morality.
+
 ## Tips
 
 OSX Help menu shortcut
