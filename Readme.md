@@ -12,17 +12,9 @@
 
 > Dash is an API Documentation Browser and Code Snippet Manager
 
-[f.lux](https://justgetflux.com/)
-
-> f.lux fixes this: it makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day
-
 [iTerm2](https://www.iterm2.com/)
 
 > iTerm2 is a replacement for Terminal and the successor to iTerm. It works on Macs with OS X 10.8 or newer. iTerm2 brings the terminal into the modern age with features you never knew you always wanted.
-
-[macpass](https://github.com/mstarke/MacPass)
-
-> A native OS X KeePass client
 
 [p4merge](https://www.perforce.com/product/components/perforce-visual-merge-and-diff-tools)
 
@@ -56,21 +48,9 @@
 
 ## iOS Application
 
-[Evernote](https://evernote.com/)
-
-> Discover what a new kind of note can do for you.
-
-[Minikeepass](https://minikeepass.github.io/)
-
-> Secure password storage on your phone that's compatible with KeePass
-
 [Overcast](https://overcast.fm/)
 
 > A powerful yet simple podcast player for iPhone, iPad, and Apple Watch
-
-[Pocket](https://getpocket.com/)
-
-> Save, discover, and recommend the best stories on the Web
 
 [Reeder](http://reederapp.com/)
 
@@ -94,19 +74,9 @@
 
 > A cd command that learns - easily navigate directories from the command line [http://wiki.github.com/joelthelion/autojump/](http://wiki.github.com/joelthelion/autojump/)
 
-[fpp](https://facebook.github.io/PathPicker/)
-
-> | fpp
-> Why Pipe when you can Pick?
-
 [fzf](https://github.com/junegunn/fzf)
 
 > A command-line fuzzy finder
-
-[hr](https://github.com/LuRsT/hr)
-
-> <hr /> for your terminal
-> Tired of not finding things in your terminal because there's a lot of logs and garbage? Tired of destroying the Enter key by creating a "void zone" in your terminal so that you can see the error that you're trying to debug?
 
 [jq](https://github.com/stedolan/jq)
 
@@ -128,17 +98,6 @@
 
 > A delightful community-driven framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. [http://ohmyz.sh/](http://ohmyz.sh/)
 
-[osquery](https://osquery.io/)
-
-> osquery gives you the ability to query and log things like running processes, logged in users, password changes, usb devices, firewall exceptions, listening ports, and more.
-> You can perform ad-hoc queries or schedule them.
-
-    osquery> SELECT uid, name FROM listening_ports l, processes p WHERE l.pid=p.pid;
-
-pv
-
-> monitor the progress of data through a pipe
-
 [pow](http://pow.cx)
 
 > Pow is a zero-config Rack server for Mac OS X. Have it serving your apps locally in under a minute.
@@ -153,6 +112,9 @@ xxd
 
 ## Service
 
+[1password](1password.co://1password.com/)
+> With 1Password you only ever need to remember one password.
+
 [asciinema](https://asciinema.org/)
 
 > Forget screen recording apps and blurry video. Enjoy a lightweight, purely text-based approach to terminal recording.
@@ -164,6 +126,10 @@ xxd
 [DirtyMarkup](https://www.dirtymarkup.com/)
 
 > Paste in your dirty code and hit clean
+
+[Evernote](https://evernote.com/)
+
+> Discover what a new kind of note can do for you.
 
 [httpbin](http://httpbin.org/)
 
