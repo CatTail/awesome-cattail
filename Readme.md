@@ -78,6 +78,10 @@
 
 > A command-line fuzzy finder
 
+[httpie](https://github.com/jkbrzt/httpie)
+
+> Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. Follow https://twitter.com/clihttp for tips and updates. https://httpie.org
+
 [jq](https://github.com/stedolan/jq)
 
 > Command-line JSON processor
