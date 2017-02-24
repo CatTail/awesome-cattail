@@ -52,6 +52,10 @@
 
 > A powerful yet simple podcast player for iPhone, iPad, and Apple Watch
 
+[Prompt 2](https://panic.com/prompt/)
+
+> It’s the best SSH client for iOS.
+
 [Reeder](http://reederapp.com/)
 
 > A news reader for Feedbin, Feedly, Feed Wrangler, FeedHQ, NewsBlur, The Old Reader, Inoreader, Minimal Reader, BazQux Reader, Fever, Readability and Instapaper
