@@ -106,6 +106,10 @@
 
 > A delightful community-driven framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. [http://ohmyz.sh/](http://ohmyz.sh/)
 
+[polysh](http://guichaz.free.fr/polysh/)
+
+> Polysh is a tool to aggregate several remote shells into one. It is used to launch an interactive remote shell on many machines at once.
+
 [pow](http://pow.cx)
 
 > Pow is a zero-config Rack server for Mac OS X. Have it serving your apps locally in under a minute.
