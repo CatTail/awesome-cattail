@@ -60,9 +60,9 @@
 
 > A news reader for Feedbin, Feedly, Feed Wrangler, FeedHQ, NewsBlur, The Old Reader, Inoreader, Minimal Reader, BazQux Reader, Fever, Readability and Instapaper
 
-[Surge](http://surge.run/)
+[Surge](http://surge.run://nssurge.com/)
 
-> Surge is a web developer tool and proxy utility for iOS 9
+> Advanced Web Debugging Proxy for Mac & iOS
 
 [Microsoft Outlook](https://itunes.apple.com/us/app/microsoft-outlook-email-calendar/id951937596?mt=8)
 
