@@ -40,6 +40,10 @@
 
 > Managing windows size and position in OSX
 
+[SwitchHosts](https://github.com/oldj/SwitchHosts)
+
+> Switch hosts quickly!
+
 [typora](http://typora.io/)
 
 > it combines syntax highlighting for markdown source and the live preview function
