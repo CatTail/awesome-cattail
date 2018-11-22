@@ -64,7 +64,7 @@
 
 > A news reader for Feedbin, Feedly, Feed Wrangler, FeedHQ, NewsBlur, The Old Reader, Inoreader, Minimal Reader, BazQux Reader, Fever, Readability and Instapaper
 
-[Surge](http://surge.run://nssurge.com/)
+[Surge](http://nssurge.com/)
 
 > Advanced Web Debugging Proxy for Mac & iOS
 
