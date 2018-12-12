@@ -102,6 +102,10 @@
 
 > Keep your application settings in sync (OS X/Linux)
 
+[mosh](https://mosh.org/)
+
+> Remote terminal application that allows roaming, supports intermittent connectivity, and provides intelligent local echo and line editing of user keystrokes.
+
 [mpv](https://mpv.io/)
 
 > a free, open source, and cross-platform media player
