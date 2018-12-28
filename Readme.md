@@ -183,6 +183,10 @@ xxd
 
 > The game is based on the novel series of the same name by Polish author Andrzej Sapkowski. *The Witcher* takes place in a medieval fantasyworld and follows the story of Geralt, one of a few remaining Witchers – traveling monster hunters for hire who have supernatural powers. The game's system of "moral choices" as part of the storyline was noted for its time-delayed consequences and lack of black-and-white morality. - Wikipedia
 
+[WolframAlpha](https://www.wolframalpha.com/)
+
+> Compute expert-level answers using Wolfram's breakthrough algorithms, knowledgebase and AI technology
+
 ## Tips
 
 OSX Help menu shortcut
