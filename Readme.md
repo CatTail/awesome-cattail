@@ -86,6 +86,10 @@
 
 > A command-line fuzzy finder
 
+[gron](https://github.com/tomnomnom/ )
+
+> Make JSON greppable!
+
 [httpie](https://github.com/jkbrzt/httpie)
 
 > Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. Follow https://twitter.com/clihttp for tips and updates. https://httpie.org
