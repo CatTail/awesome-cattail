@@ -8,9 +8,13 @@
 
 > The missing package manager for OS X
 
-[dash](https://kapeli.com/)
+[Dash](https://kapeli.com/)
 
 > Dash is an API Documentation Browser and Code Snippet Manager
+
+[IINA](https://github.com/iina/iina)
+
+> The modern video player for macOS.
 
 [iTerm2](https://www.iterm2.com/)
 
@@ -20,7 +24,7 @@
 
 > Visual Merge and Diff Tools
 
-[postman](https://www.getpostman.com/)
+[Postman](https://www.getpostman.com/)
 
 > Postman helps you develop APIs faster.
 
