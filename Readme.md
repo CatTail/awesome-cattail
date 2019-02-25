@@ -159,6 +159,10 @@ xxd
 
 > Discover what a new kind of note can do for you.
 
+[gitignore.io](https://www.gitignore.io/)
+
+> Create useful .gitignore files for your project.
+
 [httpbin](http://httpbin.org/)
 
 > HTTP Request & Response Service
